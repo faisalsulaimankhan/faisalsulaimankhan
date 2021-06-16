@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Faisal Sulaima</h1>
-<h3 align="center">A passionate in full stack developer</h3>
+<h1 align="center">Hi 👋, I'm Faisal Sulaiman</h1>
+<h3 align="center">I am currently learning cool😊 about AI
+                   And also a full stack developer.💻\</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalsulaimankhan&label=Profile%20views&color=0e75b6&style=flat" alt="faisalsulaimankhan" /> </p>
 
@@ -7,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@faisal477" target="blank"><img src="https://img.shields.io/twitter/follow/@faisal477?logo=twitter&style=for-the-badge" alt="@faisal477" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Machine learning**
+- 🌱 I’m currently learning **Python, Machine learning,Java.
 
 - 📫 How to reach me **kfaisal477@gmail.com**
 
